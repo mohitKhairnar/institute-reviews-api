@@ -180,7 +180,7 @@
     "date":"30/09/2022"
     },
     {
-    "id":19,
+    "id":18,
     "institute_name": "Government Polytechnic Amravati",
     "location":"india",
     "your description":"student",
@@ -188,24 +188,24 @@
     "review":"Best college for Diploma",
     "rating":"4.5/5",
     "date":"29/09/2022"
-    },
-    {
-    "id":20,
+    }
+     {
+    "id":16,
     "institute_name": "Vishwakarma institute of technology",
     "location":"india",
     "your description":"student",
     "about":"academic",
     "review":"Best college for engineering",
     "rating":"5/5",
-    "date":"30/09/2022",
+    "date":"30/09/2022"
     },
-    {
-    "id":1,
-    "institute_name": "Sanjay Ghodawat University,atigre",
+    "id":17,
+    "institute_name": "Indian Institute of Technology Delhi",
     "location":"india",
-    "yourDescription":"student",
+    "your description":"student",
     "about":"academic",
-    "review":"Best college for Engineering",
-    "rating":"4.4/5",
-    },
+    "review":"Centres of Excellence for training, research and development in science, engineering and technology in India.",
+    "rating":"5/5",
+    "date":"30/09/2022"
+    }
 ]
