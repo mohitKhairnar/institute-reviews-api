@@ -213,13 +213,13 @@
     },
     {
     "id":22,
-    "institute_name": "Colleger Of Engineering Pune",
+    "institute_name": "College Of Engineering Pune",
     "location":"india",
     "yourDescription":"student",
     "about":"academic",
     "review":"One of the best college",
     "rating":"4.5/5",
-    "date":"30/09/2022",
+    "date":"30/09/2022"
     },
     {
     "id":23,
@@ -241,16 +241,29 @@
     "rating":"4/5",
     "date":"30/09/2022"
     },
+
     {
+        "id":24,
+
+        "institute_name": "Visvesvaraya National Institute Of Technology",
+        "location":"india",
+        "yourDescription":"student",
+        "about":"academic",
+        "review":"Best college for Engineering",
+        "rating":"4.5/5",
+        "date":"30/09/2022"
+    },
+    {
+
     "id":25,
-    "institute_name": "Visvesvaraya National Institute Of Technology",
+    "institute_name": "Amrita Vishwa Vidyapeetham",
     "location":"india",
     "yourDescription":"student",
     "about":"academic",
-    "review":"Best college for Engineering",
+    "review":"The college is one of the best engineering and top-ranking engineering institute in India",
     "rating":"4.5/5",
-    "date":"30/09/2022",
-    },
+    "date":"30/09/2022"
+    },    
     {
     "id":26,
     "institute_name": "VJTI",
@@ -270,6 +283,17 @@
     "review":"One of the topmost topmost college of India",
     "rating":"5/5",
     "date":"30/09/2022"
+
+    },  
+    {
+        "id":27,
+        "institute_name": "Visvesvaraya National Institute Of Technology",
+        "location":"India",
+        "your description":"Student",
+        "about":"Academic",
+        "review":"Best college for Engineering",
+        "rating":"4.5/5",
+        "date":"01/10/2022"
     },
     {
     "id":28,
@@ -298,7 +322,7 @@
     "yourDescription":"student",
     "about":"academic",
     "review":"SGGS has maintained a very good profile since last some years",
-    "rating":"4.1/5",
+    "rating":"4.1/5"
     },
     {
     "id":31,
@@ -311,7 +335,7 @@
     "date":"30/09/2021"
     },
     {
-    "id":32
+    "id":32,
     "institute_name": "Indraprastha Institute of Information Technology",
     "location":"india",
     "yourDescription":"student",
@@ -330,9 +354,10 @@
     "rating":"5/5",
     "date":"1/10/2022"
     },
-      {
+
+    {
     "id":34,
-    "institute_name": "Indian Institude of Technology , Roorkee",
+    "institute_name": "SSVPS",
     "location":"india",
     "yourDescription":"student",
     "about":"academic",
@@ -340,5 +365,47 @@
     "rating":"5/5",
     "date":"1/10/2022"
     },
+    {
+    "id":26,
+    "institute_name": "Indian Institute of Science Public university in Bengaluru, Karnataka",
+    "location":"india",
+    "yourDescription":"student",
+    "about":"Academics and culture",
+    "review":"Excellent college for Research and Development in India",
+    "rating":"4.7/5",
+    "date":"30/09/2022"
+    },
+
+
+    {
+        "id":35,
+        "institute_name": "Government College of Engineering, Amravati",
+        "location":"india",
+        "yourDescription":"student",
+        "about":"academic",
+        "review":"One of the topmost topmost college of Maharashtra, India",
+        "rating":"3/5",
+        "date":"30/09/2022"
+    },
+     {
+    "id":36,
+    "institute_name": "Indian Institute of Technology Kharagpur",
+    "location":"india",
+    "yourDescription":"student",
+    "about":"academic",
+    "review":"Best college for Engineering in India",
+    "rating":"4.9/5",
+    "date":"30/09/2022"
+    },
+    {
+    "id":36,
+    "institute_name": "Walchand Institute of Technollogy",
+    "location":"Solapur",
+    "yourDescription":"student",
+    "about":"academic",
+    "review":"Good college for Engineering",
+    "rating":"2.4/5",
+    "date":"30/09/2022"
+    }
 
 ]
