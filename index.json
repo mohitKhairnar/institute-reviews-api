@@ -149,8 +149,18 @@
     "rating":"5/5",
     "date":"30/09/2022"
     },
-     {
-    "id":20,
+    {
+    "id": 16,
+    "institute_name": "Pimpri Chinchwad College Of Engineering",
+    "location": "india",
+    "yourDescription": "student",
+    "about": "academics",
+    "review": "One of the top most for placement",
+    "rating": "5/5",
+    "date": "30/09/2022"
+    },
+    {
+    "id":17,
     "institute_name": "Jindal Mount Litera Zee School",
     "location":"Raigad",
     "yourDescription":"Student",
@@ -160,7 +170,7 @@
     "date":"30/09/2022"
     },
     {
-    "id":21,
+    "id":18,
     "institute_name": "DAV College Managing Committee",
     "location":"India",
     "yourDescription":"student",
@@ -170,7 +180,7 @@
     "date":"30/09/2022"
     },
     {
-    "id":22,
+    "id":18,
     "institute_name": "Government Polytechnic Amravati",
     "location":"india",
     "your description":"student",
