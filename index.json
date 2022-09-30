@@ -299,6 +299,15 @@
     "rating":"4.2/5",
     "date":"1/10/2022"
     },
+    {
+    "id":27,
+    "institute_name": "Shri Guru Gobind Singhji Institute of Engineering and Technology Nanded",
+    "location":"india",
+    "yourDescription":"student",
+    "about":"academic",
+    "review":"SGGS has maintained a very good profile since last some years",
+    "rating":"4.1/5",
+    },
 
     {
     "id":28,
