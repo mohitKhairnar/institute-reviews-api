@@ -232,7 +232,7 @@
     "date":"30/09/2022"
     },
     
-    "id":24,
+    {"id":24,
     "institute_name": "Visvesvaraya National Institute Of Technology",
     "location":"india",
     "yourDescription":"student",
@@ -241,5 +241,15 @@
     "rating":"4.5/5",
     "date":"30/09/2022",
     },
-
+    {
+    "id":25,
+    "institute_name": "Amrita Vishwa Vidyapeetham",
+    "location":"india",
+    "yourDescription":"student",
+    "about":"academic",
+    "review":"The college is one of the best engineering and top-ranking engineering institute in India",
+    "rating":"4.5/5",
+    "date":"30/09/2022",
+    },
+        
 ]
