@@ -197,6 +197,19 @@
     "about":"academic",
     "review":"Best college for engineering",
     "rating":"5/5",
+    "date":"30/09/2022"
+    },
+   {
+    "id":22,
+    "institute_name": "Rajaram bapu institute of technology",
+    "location":"india",
+    "your description":"student",
+    "about":"academic",
+    "review":"Best college for engineering and diploma",
+    "rating":"4.5/5",
+    "date":"30/09/2022"
+    },
+
     "date":"30/09/2022",
     },
     {
@@ -208,4 +221,5 @@
     "review":"Best college for Engineering",
     "rating":"4.4/5",
     },
+
 ]
