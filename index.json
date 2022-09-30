@@ -152,16 +152,6 @@
     "date":"30/09/2022"
     },
     {
-    "id":14,
-    "institute_name": "Indian Institute of Technology, Guwahati",
-    "location":"india",
-    "yourDescription":"student",
-    "about":"academic",
-    "review":"One of the topmost topmost college of India",
-    "rating":"5/5",
-    "date":"30/09/2022"
-    },
-    {
     "id": 16,
     "institute_name": "Pimpri Chinchwad College Of Engineering",
     "location": "india",
@@ -261,16 +251,15 @@
     "rating":"4.5/5",
     "date":"30/09/2022"
     },
-    {
-    "id":14,
-    "institute_name": "Indian Institute of Technology, Guwahati",
+      {
+    "id":27,
+    "institute_name": "K K Wagh college of Engineering, Sangli",
     "location":"india",
     "yourDescription":"student",
     "about":"academic",
-    "review":"One of the topmost topmost college of India",
-    "rating":"5/5",
-    "date":"30/09/2022"
-    },
-
+    "review":"Average college for Engineering",
+    "rating":"4.6/5",
+    "date":"01/10/2022",
+    }
 
 ]
