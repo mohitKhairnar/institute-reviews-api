@@ -487,5 +487,15 @@
     "date":"30/09/2022",
 
     },
+{
+    "id":25,
+    "institute_name": "KIT",
+    "location":"india",
+    "yourDescription":"student",
+    "about":"academic",
+    "review":"Gpod college for Engineering",
+    "rating":"4.5/5",
+    "date":"30/09/2022",
+    },
 
 ]
