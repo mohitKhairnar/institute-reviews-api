@@ -344,7 +344,7 @@
     "date":"1/10/2022"
     },
     {
-    "id":25,
+    "id":34,
     "institute_name": "SSVPS",
     "location":"india",
     "yourDescription":"student",
@@ -353,6 +353,14 @@
     "rating":"4.4/5",
     "date":"30/09/2022"
     },
-
-
+    {
+    "id":35,
+    "institute_name": "Government College of Engineering, Amravati",
+    "location":"india",
+    "yourDescription":"student",
+    "about":"academic",
+    "review":"One of the topmost topmost college of Maharashtra, India",
+    "rating":"3/5",
+    "date":"30/09/2022"
+    },
 ]
