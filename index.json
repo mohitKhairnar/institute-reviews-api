@@ -148,9 +148,9 @@
     "review":"One of the topmost topmost college of India",
     "rating":"5/5",
     "date":"30/09/2022"
-    }
-      {
-    "id":17,
+    },
+     {
+    "id":20,
     "institute_name": "Jindal Mount Litera Zee School",
     "location":"Raigad",
     "yourDescription":"Student",
@@ -159,4 +159,24 @@
     "rating":"4.7/5",
     "date":"30/09/2022"
     },
+    {
+    "id":21,
+    "institute_name": "DAV College Managing Committee",
+    "location":"India",
+    "yourDescription":"student",
+    "about":"academic and sports",
+    "review":"One of the topmost Institute for HSC,SSC and Sports ",
+    "rating":"3.8/5",
+    "date":"30/09/2022"
+    },
+    {
+    "id":22,
+    "institute_name": "Government Polytechnic Amravati",
+    "location":"india",
+    "your description":"student",
+    "about":"academic",
+    "review":"Best college for Diploma",
+    "rating":"4.5/5",
+    "date":"29/09/2022"
+    }
 ]
