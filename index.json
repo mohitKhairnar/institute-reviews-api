@@ -118,6 +118,16 @@
     "review":"One of the topmost college of India",
     "rating":"5/5",
     "date":"30/09/2022"
+    },
+    {
+    "id":13,
+    "institute_name": "VJTI",
+    "location":"india",
+    "yourDescription":"student",
+    "about":"academic",
+    "review":"Best college for Engineering",
+    "rating":"4.5/5",
+    "date":"30/09/2022"
     }
 
 ]
