@@ -364,14 +364,26 @@
     "date":"30/09/2022"
     },
     {
-    "id":35,
-    "institute_name": "Government College of Engineering, Amravati",
+    "id":26,
+    "institute_name": "Indian Institute of Science Public university in Bengaluru, Karnataka",
     "location":"india",
     "yourDescription":"student",
-    "about":"academic",
-    "review":"One of the topmost topmost college of Maharashtra, India",
-    "rating":"3/5",
+    "about":"Academics and culture",
+    "review":"Excellent college for Research and Development in India",
+    "rating":"4.7/5",
     "date":"30/09/2022"
+    },
+
+
+    {
+        "id":35,
+        "institute_name": "Government College of Engineering, Amravati",
+        "location":"india",
+        "yourDescription":"student",
+        "about":"academic",
+        "review":"One of the topmost topmost college of Maharashtra, India",
+        "rating":"3/5",
+        "date":"30/09/2022"
     },
      {
     "id":36,
