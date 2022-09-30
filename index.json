@@ -119,8 +119,8 @@
     "rating":"5/5",
     "date":"30/09/2022"
     },
-        {
-    "id":57,
+    {
+    "id":13,
     "institute_name": "wce",
     "location":"india",
     "yourDescription":"student",
@@ -128,7 +128,15 @@
     "review":"excellent in teaching ",
     "rating":"5/5",
     "date":"29/09/2022"
+    },
+    {
+    "id":14,
+    "institute_name": "Pune Institute of Computer Technology",
+    "location":"india",
+    "yourDescription":"student",
+    "about":"academic",
+    "review":"One of the topmost topmost college of India",
+    "rating":"5/5",
+    "date":"30/09/2022"
     }
-
-
 ]
