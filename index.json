@@ -138,5 +138,15 @@
     "review":"One of the top Private Autonomous College in India",
     "rating":"3/5",
     "date":"30/09/2022"
+    },
+    {
+    "id":50,
+    "institute_name": "Government Polytechnic Amravati",
+    "location":"india",
+    "your description":"student",
+    "about":"academic",
+    "review":"Best college for Diploma",
+    "rating":"4.5/5",
+    "date":"29/09/2022"
     }
 ]
