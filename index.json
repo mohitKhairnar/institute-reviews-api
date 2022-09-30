@@ -69,7 +69,7 @@
     "review":"Average college in locality",
     "rating":"4.0/5",
     "date":"30/09/2022"
-    }
+    },
     {
     "id":8,
     "institute_name": "kwc sangli",
@@ -78,6 +78,16 @@
     "about":"academic",
     "review":"Average college in locality",
     "rating":"3.0/5",
+    "date":"30/09/2022"
+    },
+    {
+    "id":9,
+    "institute_name": "Vidya Bharati Mahavidyalaya, Amravati",
+    "location":"india",
+    "yourDescription":"student",
+    "about":"academic",
+    "review":"Good college with less fees.",
+    "rating":"3.5/5",
     "date":"30/09/2022"
     }
 ]
