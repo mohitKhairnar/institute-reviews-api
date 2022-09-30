@@ -308,7 +308,6 @@
     "review":"SGGS has maintained a very good profile since last some years",
     "rating":"4.1/5",
     },
-
     {
     "id":28,
     "institute_name": "Indian Institute of Technology,Jodhpur",
@@ -318,7 +317,7 @@
     "review":"One of the good college of India",
     "rating":"5/5",
     "date":"30/09/2021"
-    }
+    },
 
 
 ]
