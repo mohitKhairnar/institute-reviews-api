@@ -108,6 +108,16 @@
     "review":"Good college for higher education",
     "rating":"4.0/5",
     "date":"30/09/2022"
+    },
+    {
+    "id":12,
+    "institute_name": "Indian Institue of Technology, Powai",
+    "location":"india",
+    "yourDescription":"student",
+    "about":"academic",
+    "review":"One of the topmost college of India",
+    "rating":"5/5",
+    "date":"30/09/2022"
     }
-  
+
 ]
