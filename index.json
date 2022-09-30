@@ -281,6 +281,16 @@
     "rating":"5/5",
     "date":"30/09/2022"
     },
+    {
+    "id":28,
+    "institute_name": "Sardar patel institute of technology",
+    "location":"india",
+    "yourDescription":"student",
+    "about":"academic",
+    "review":"One of the topmost college of India",
+    "rating":"5/5",
+    "date":"1/10/2022"
+    },
 
 
 ]
