@@ -151,6 +151,18 @@
     "rating":"5/5",
     "date":"30/09/2022"
     },
+
+     {
+    "id":57,
+    "institute_name": "Institute of Computer Technology",
+    "location":"sri lanka",
+    "yourDescription":"student",
+    "about":"academic",
+    "review":"One of the topmost topmost college of srilanka",
+    "rating":"5/5",
+    "date":"28/09/2022"
+    },
+
     {
     "id": 16,
     "institute_name": "Pimpri Chinchwad College Of Engineering",
