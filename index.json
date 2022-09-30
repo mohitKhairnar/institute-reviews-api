@@ -121,6 +121,16 @@
     },
     {
     "id":13,
+    "institute_name": "wce",
+    "location":"india",
+    "yourDescription":"student",
+    "about":"faculty",
+    "review":"excellent in teaching ",
+    "rating":"5/5",
+    "date":"29/09/2022"
+    },
+    {
+    "id":14,
     "institute_name": "Pune Institute of Computer Technology",
     "location":"india",
     "yourDescription":"student",
@@ -129,5 +139,4 @@
     "rating":"5/5",
     "date":"30/09/2022"
     }
-
 ]
