@@ -119,7 +119,8 @@
     "rating":"5/5",
     "date":"30/09/2022"
     },
-    "id":41,
+    {
+    "id":17,
     "institute_name": "SPIT Mumbai",
     "location":"india",
     "yourDescription":"student",
@@ -127,5 +128,15 @@
     "review":"Good college for higher education",
     "rating":"4.0/5",
     "date":"30/09/2022"
-
+    },
+    {
+    "id":18,
+    "institute_name": "KJ Soumiya",
+    "location":"india",
+    "yourDescription":"student",
+    "about":"academic",
+    "review":"One of the top Private Autonomous College in India",
+    "rating":"3/5",
+    "date":"30/09/2022"
+    }
 ]
