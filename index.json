@@ -148,5 +148,15 @@
     "review":"One of the topmost topmost college of India",
     "rating":"5/5",
     "date":"30/09/2022"
+    },
+    {
+     "id": 16,
+       "institute_name": "Pimpri Chinchwad College Of Engineering",
+        "location": "india",
+        "yourDescription": "student",
+        "about": "academics",
+        "review": "One of the top most for placement",
+        "rating": "5/5",
+        "date": "30/09/2022"
     }
 ]
