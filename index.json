@@ -221,5 +221,16 @@
     "rating":"4.4/5",
     "date":"30/09/2022"
     }
+    
+    {
+    "id":23,
+    "institute_name": "Indian Institute Of Technology,Kharagpur",
+    "location":"India",
+    "yourDescription":"Student",
+    "about":"Academic",
+    "review":"Best college for Engineering",
+    "rating":"5th",
+    "date":"30/09/2022"
+    }
 
 ]
