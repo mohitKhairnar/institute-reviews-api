@@ -223,6 +223,16 @@
     },
     {
     "id":22,
+    "institute_name": "Colleger Of Engineering Pune",
+    "location":"india",
+    "yourDescription":"student",
+    "about":"academic",
+    "review":"One of the best college",
+    "rating":"4.5/5",
+    "date":"30/09/2022",
+    },
+    {
+    "id":23,
     "institute_name": "Sanjay Ghodawat University,atigre",
     "location":"india",
     "yourDescription":"student",
@@ -262,7 +272,7 @@
     "date":"30/09/2022"
     },
     {
-    "id":14,
+    "id":27,
     "institute_name": "Indian Institute of Technology, Guwahati",
     "location":"india",
     "yourDescription":"student",
