@@ -90,7 +90,17 @@
     "rating":"3.5/5",
     "date":"30/09/2022"
     },
+    {
     "id":10,
+    "institute_name": "Colleger Of Engineering Pune",
+    "location":"india",
+    "yourDescription":"student",
+    "about":"academic",
+    "review":"One of the best college",
+    "rating":"4.5/5",
+    },
+    {
+    "id":11,
     "institute_name": "Rajarshi Shahu College, Latur",
     "location":"india",
     "yourDescription":"student",
@@ -99,4 +109,5 @@
     "rating":"4.0/5",
     "date":"30/09/2022"
     }
+  
 ]
