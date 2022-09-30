@@ -38,6 +38,7 @@
     "about":"Faculty",
     "review":"Amazing & supportive faculties",
     "rating":"4.5/5",
+    "date":"30/09/2022"
    },
    
     {
@@ -98,6 +99,7 @@
     "about":"academic",
     "review":"One of the best college",
     "rating":"4.5/5",
+    "date":"30/09/2022"
     },
     {
     "id":11,
@@ -121,12 +123,12 @@
     },
     {
     "id":13,
-    "institute_name": "VJTI",
+    "institute_name": "Rajarambapu Institute Of Technology, Urun Islampur",
     "location":"india",
     "yourDescription":"student",
     "about":"academic",
-    "review":"Best college for Engineering",
-    "rating":"4.5/5",
+    "review":"One of the topmost college of Sangli",
+    "rating":"4/5",
     "date":"30/09/2022"
     },
     {
@@ -142,6 +144,16 @@
     {
     "id":15,
     "institute_name": "Pune Institute of Computer Technology",
+    "location":"india",
+    "yourDescription":"student",
+    "about":"academic",
+    "review":"One of the topmost topmost college of India",
+    "rating":"5/5",
+    "date":"30/09/2022"
+    },
+    {
+    "id":14,
+    "institute_name": "Indian Institute of Technology, Guwahati",
     "location":"india",
     "yourDescription":"student",
     "about":"academic",
@@ -181,12 +193,12 @@
     },
     {
     "id":19,
-    "institute_name": "Government Polytechnic Amravati",
+    "institute_name": "Government Polytechnic, Amravati",
     "location":"india",
     "your description":"student",
     "about":"academic",
-    "review":"Best college for Diploma",
-    "rating":"4.5/5",
+    "review":"Best college for Diploma in Maharashtra, ideal for Vidharbhians",
+    "rating":"5/5",
     "date":"29/09/2022"
     },
     {
@@ -197,10 +209,20 @@
     "about":"academic",
     "review":"Best college for engineering",
     "rating":"5/5",
-    "date":"30/09/2022",
+    "date":"30/09/2022"
+    },
+   {
+    "id":21,
+    "institute_name": "Rajaram bapu institute of technology",
+    "location":"india",
+    "your description":"student",
+    "about":"academic",
+    "review":"Best college for engineering and diploma",
+    "rating":"4.5/5",
+    "date":"30/09/2022"
     },
     {
-    "id":21,
+    "id":22,
     "institute_name": "Colleger Of Engineering Pune",
     "location":"india",
     "yourDescription":"student",
@@ -210,12 +232,55 @@
     "date":"30/09/2022",
     },
     {
-    "id":22,
+    "id":23,
     "institute_name": "Sanjay Ghodawat University,atigre",
     "location":"india",
     "yourDescription":"student",
     "about":"academic",
     "review":"Best college for Engineering",
     "rating":"4.4/5",
+    "date":"30/09/2022"
     },
+    {
+    "id":24,
+    "institute_name": "Pimpri Chinchwad College of Engineering ( PCCOE )",
+    "location":"india",
+    "yourDescription":"student",
+    "about":"academic",
+    "review":"Best college for Engineering",
+    "rating":"4/5",
+    "date":"30/09/2022"
+    },
+    {
+    "id":25,
+    "institute_name": "Visvesvaraya National Institute Of Technology",
+    "location":"india",
+    "yourDescription":"student",
+    "about":"academic",
+    "review":"Best college for Engineering",
+    "rating":"4.5/5",
+    "date":"30/09/2022",
+    },
+    {
+    "id":26,
+    "institute_name": "VJTI",
+    "location":"india",
+    "yourDescription":"student",
+    "about":"academic",
+    "review":"Best college for Engineering",
+    "rating":"4.5/5",
+    "date":"30/09/2022"
+    },
+    {
+    "id":27,
+    "institute_name": "Indian Institute of Technology, Guwahati",
+    "location":"india",
+    "yourDescription":"student",
+    "about":"academic",
+    "review":"One of the topmost topmost college of India",
+    "rating":"5/5",
+    "date":"30/09/2022"
+    },
+
+
 ]
