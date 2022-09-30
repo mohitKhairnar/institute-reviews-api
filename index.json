@@ -340,5 +340,15 @@
     "rating":"4.4/5",
     "date":"30/09/2022"
     },
+    {
+    "id":26,
+    "institute_name": "Indian Institute of Science Public university in Bengaluru, Karnataka",
+    "location":"india",
+    "yourDescription":"student",
+    "about":"Academics and culture",
+    "review":"Excellent college for Research and Development in India",
+    "rating":"4.7/5",
+    "date":"30/09/2022"
+    },
 
 ]
