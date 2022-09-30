@@ -151,6 +151,18 @@
     "rating":"5/5",
     "date":"30/09/2022"
     },
+
+     {
+    "id":57,
+    "institute_name": "Institute of Computer Technology",
+    "location":"sri lanka",
+    "yourDescription":"student",
+    "about":"academic",
+    "review":"One of the topmost topmost college of srilanka",
+    "rating":"5/5",
+    "date":"28/09/2022"
+    },
+
     {
     "id": 16,
     "institute_name": "Pimpri Chinchwad College Of Engineering",
@@ -182,6 +194,9 @@
     "date":"30/09/2022"
     },
     {
+
+    "id":18,
+    "institute_name": "Government Polytechnic Amravati",
     "id":19,
     "institute_name": "Government Polytechnic, Amravati",
     "location":"india",
@@ -190,9 +205,9 @@
     "review":"Best college for Diploma in Maharashtra, ideal for Vidharbhians",
     "rating":"5/5",
     "date":"29/09/2022"
-    },
-    {
-    "id":20,
+    }
+     {
+    "id":16,
     "institute_name": "Vishwakarma institute of technology",
     "location":"india",
     "your description":"student",
@@ -200,7 +215,9 @@
     "review":"Best college for engineering",
     "rating":"5/5",
     "date":"30/09/2022"
+
     },
+    
    {
     "id":21,
     "institute_name": "Rajaram bapu institute of technology",
@@ -224,11 +241,12 @@
     {
     "id":23,
     "institute_name": "Sanjay Ghodawat University,atigre",
+
     "location":"india",
-    "yourDescription":"student",
+    "your description":"student",
     "about":"academic",
-    "review":"Best college for Engineering",
-    "rating":"4.4/5",
+    "review":"Centres of Excellence for training, research and development in science, engineering and technology in India.",
+    "rating":"5/5",
     "date":"30/09/2022"
     },
     {
@@ -322,7 +340,7 @@
     "review":"One of the top most college for Engineering",
     "rating":"4.7/5",
     "date":"01/10/2022"
-    }
+    },
 {
     "institute_name": "Indian institute of technology,gandhinagar",
     "location":"india",
@@ -424,6 +442,7 @@
     "rating":"2.4/5",
     "date":"30/09/2022"
     },
+
 {
     "id":37,
     "institute_name": "walchand college of engineering, sangli",
@@ -434,5 +453,58 @@
     "rating":"4.5/5",
     "date":"01/10/2022"
 },
+
+    {
+    "id":23,
+    "institute_name": "Fergusson College,Pune",
+    "location":"india",
+    "yourDescription":"student",
+    "about":"academic",
+    "review":"Best college for Arts & Literature",
+    "rating":"4.8/5",
+    "date":"30/09/2022"
+    }
+{
+    "id":26,
+    "institute_name": "Dr. DY Patil Institute of Technology",
+    "location":"India",
+    "yourDescription":"Student",
+    "about":"Academic",
+    "review":"Great Infra and Opportunities",
+    "rating":"4.5/5",
+},
+    
+    {
+    "id":24,
+    "institute_name": "Visvesvaraya National Institute Of Technology",
+    "location":"india",
+    "yourDescription":"student",
+    "about":"academic",
+    "review":"Best college for Engineering",
+    "rating":"4.9/5",
+    "date":"30/09/2022",
+
+    },
+{
+    "id":25,
+    "institute_name": "KIT",
+    "location":"india",
+    "yourDescription":"student",
+    "about":"academic",
+    "review":"Gpod college for Engineering",
+    "rating":"4.5/5",
+    "date":"30/09/2022"
+    },
+    {
+    "id":26,
+    "institute_name": "IIT Kanpur",
+    "location":"india",
+    "yourDescription":"student",
+    "about":"academic",
+    "review":"Best college for Engineering",
+    "rating":"4.8/5",
+    "date":"30/09/2022"
+    }
+
 
 ]
