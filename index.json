@@ -292,5 +292,17 @@
     "date":"1/10/2022"
     },
 
+    {
+    "id":28,
+    "institute_name": "Indian Institute of Technology,Jodhpur",
+    "location":"india",
+    "yourDescription":"student",
+    "about":"academic",
+    "review":"One of the good college of India",
+    "rating":"5/5",
+    "date":"30/09/2021"
+    }
+
+
 
 ]
