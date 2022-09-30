@@ -271,6 +271,17 @@
     "rating":"5/5",
     "date":"30/09/2022"
     },
+    
+    {
+        "id":27,
+        "institute_name": "Visvesvaraya National Institute Of Technology",
+        "location":"India",
+        "your description":"Student",
+        "about":"Academic",
+        "review":"Best college for Engineering",
+        "rating":"4.5/5",
+        "date":"01/10/2022"
+    }
 
 
 ]
